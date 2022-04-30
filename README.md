@@ -15,3 +15,4 @@ Es necesario tener instalado Flex y un compilador de codigo C, en mi caso gcc in
 	Para ejecutar y que lea desde el teclado
 	./a.out
 
+Se puede eliminar el archivo dataOut para corroborar que funciona.
