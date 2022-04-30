@@ -6,7 +6,7 @@ Es necesario tener instalado Flex y un compilador de codigo C, en mi caso gcc in
 •	Para generar en Lex:
 	flex Analizador_Lex.l
 
-•	Para compilar 
+•	Para compilar:
 	gcc lex.yy.c -lfl 
 
 •	Para ejecutarlo:
