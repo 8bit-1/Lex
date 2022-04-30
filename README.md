@@ -10,5 +10,8 @@ Es necesario tener instalado Flex y un compilador de codigo C, en mi caso gcc in
 	gcc lex.yy.c -lfl 
 
 •	Para ejecutarlo:
+	./a.out data.txt
+	
+	Para ejecutar y que lea desde el teclado
 	./a.out
 
